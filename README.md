@@ -1,10 +1,2 @@
-# Chinese-text-sentiment-classification-based-on-PyTorch
-
-## text sentiment analysis preprocessing
-## text sentiment analysis feature extraction and text representation
-## model
-## data prepration
-## class dataset
-## class model
-## train
-## test
+### 资源
+- 数据集：https://github.com/SophonPlus/ChineseNlpCorpus/blob/master/datasets/weibo_senti_100k/intro.ipynb
